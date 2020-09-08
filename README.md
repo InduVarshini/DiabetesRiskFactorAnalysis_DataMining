@@ -29,3 +29,4 @@ Outcome = Class variable (1: if diabetic, 0: if non-diabetic)
 ## Approach
 
 1. Exploratory Data Analysis performed on the Diabetes dataset and some useful insights have been obtained.
+Go to the report : https://induvarshini.github.io/DiabetesRiskFactorAnalysis_DataMining/output_eda.html
